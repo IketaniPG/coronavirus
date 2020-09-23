@@ -39,7 +39,7 @@ def start():
 
         if choice_1 == 1:
             print('\nYou', colorized.GREEN + 'selected', ': Show countries names and IDs.')
-            print('[', colorized.LIGHTBLUE_EX + 'COUNTRIES LIST', '] Access our countries list on: https://pastebin.com/\n')
+            print('[', colorized.LIGHTBLUE_EX + 'COUNTRIES LIST', '] Access our countries list on: https://github.com/IketaniPG/coronavirus/\n')
             print('Coming back to main menu.\n')
             sleep(3)
 
@@ -116,4 +116,5 @@ except KeyboardInterrupt:
     print('\nYou choosed', colorized.RED + 'close', 'the application.')
     exit()
 except ValueError:
-    print('[', colorized.LIGHTRED_EX + 'ERROR', '] The specified input', colorized.RED + 'is not valid.', background.RED + 'If you are trying to search a country, see our country list in: https://pastebin.com/')
+    print('[', colorized.LIGHTRED_EX + 'ERROR', '] The specified input', colorized.RED + 'is not valid.', background.RED + 'If you are trying to search a country, see our country list in: https://github.com/IketaniPG/coronavirus/')
+    start()
