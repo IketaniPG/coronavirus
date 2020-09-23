@@ -1,6 +1,6 @@
 # Coronavirus Script 😷
 Show the Coronavirus updated data.
-PS: If you don't have Windows 10, the Colorama can bug and you can't see the colors (i'll create a Windows 7 version soon)
+_PS: If you don't have Windows 10, the Colorama can bug and you can't see the colors (i'll create a Windows 7 version soon)_
 
 ## Installng Requirements 💻
 
