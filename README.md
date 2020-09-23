@@ -22,6 +22,10 @@ Run the script using:
 python main.py
 ```
 
+## Countries List 🌎
+
+You can see the script countries list clicking [here](https://pypi.org/project/covid/).
+
 ## LICENSE 📓
 
 This project is using [MIT License](https://opensource.org/licenses/MIT)
